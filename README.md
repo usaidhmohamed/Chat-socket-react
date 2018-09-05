@@ -5,7 +5,7 @@ POC
 1. Node
 2. npm
 
-# Running Step
+# steps to run
 1. Clone Repo
 2. npm install
 3. npm start
