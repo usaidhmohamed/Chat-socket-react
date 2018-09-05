@@ -1,13 +1,13 @@
 # Chat-socket-react
 POC
 
-# Pre requisites
-Node
-npm
+# Pre-requisites
+1. Node
+2. npm
 
 # Running Step
 1. Clone Repo
 2. npm install
-3. npm run start
+3. npm start
 
-See it on http://localhost:8989
+To view the chat application goto  http://localhost:8989
